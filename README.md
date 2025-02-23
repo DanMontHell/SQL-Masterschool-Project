@@ -13,8 +13,10 @@ As part of the project, I acted as a **Data Analyst candidate** for Unicorn’s 
 - **Scenario:** The company’s **stakeholders noticed declining profits** despite increasing revenue and tasked me with identifying the root cause.  
 - **Data Source:** PostgreSQL database containing **4 years (2015-2018) of sales data**.  
 
-🔗 **Database Connection:**  
-`postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn`  
+🔗 **Database Connection & Schema:**  
+`postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn`
+
+<img width="1433" alt="Screenshot 2025-02-23 at 14 10 32" src="https://github.com/user-attachments/assets/61df86ab-d60d-4ee4-8fbf-87f13f6544c5" />
 
 ---
 
@@ -37,7 +39,7 @@ As part of the project, I acted as a **Data Analyst candidate** for Unicorn’s 
 📌 **Discounting’s Impact on Profits:**  
 - **Negative correlation found** between **discount percentage and profit margin**.  
 - **Key product subcategories** with high discounts & negative profit margins:  
-  - 📌 **Binders, Appliances, Machines, Tables, Bookcases**  
+  - 📌 *Binders, Appliances, Machines, Tables, Bookcases*
 
 ---
 
@@ -68,6 +70,6 @@ Implementing structured discount policies will:
 ---
 
 ## 📫 **Explore Further**  
-LinkedIn (https://www.linkedin.com/in/danhellmuth/)
-GitHub (https://github.com/DanMontHell)
-Tableau (https://public.tableau.com/app/profile/daniel.montreal.hellmuth/vizzes)
+**LinkedIn** (https://www.linkedin.com/in/danhellmuth/)
+**GitHub** (https://github.com/DanMontHell)
+**Tableau** (https://public.tableau.com/app/profile/daniel.montreal.hellmuth/vizzes)
