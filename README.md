@@ -63,13 +63,13 @@ As part of the project, I acted as a **Data Analyst candidate** for Unicorn’s 
 
 ## 🚀 **Conclusion**  
 Implementing structured discount policies will:  
-✅ **Normalize profit margins across states** 
-✅ **Enhance profit predictability** 
-✅ **Ensure consistent branding & pricing strategies** 
+✅ **Normalize profit margins across states**  
+✅ **Enhance profit predictability**  
+✅ **Ensure consistent branding & pricing strategies**  
 
 ---
 
 ## 📫 **Explore Further**  
-**LinkedIn** (https://www.linkedin.com/in/danhellmuth/)
-**GitHub** (https://github.com/DanMontHell)
-**Tableau** (https://public.tableau.com/app/profile/daniel.montreal.hellmuth/vizzes)
+**[LinkedIn](https://www.linkedin.com/in/danhellmuth/)**  
+**[GitHub](https://github.com/DanMontHell)**  
+**[Tableau](https://public.tableau.com/app/profile/daniel.montreal.hellmuth/vizzes)**  
